@@ -12,7 +12,7 @@ To complete the analyses, I compared trends and statistics on failed vs. success
 
 ##Findings
 In general, the trends for theater and play Kickstarters looked very positive for the client. 
-Over 60% of theater Kickstarters were successful with over 60% of play Kickstarters also being successful. However, this did lend to asking questions on why certain campaigns were successful while others were not.
+Over 60% of theater Kickstarters were successful ([Parent Catagory Outcomes] Parent Catagory Outcomes.png) with over 60% of play Kickstarters also being successful ([Child Catagory Outcomes] Child Catagory Outcomes.png). However, this did lend to asking questions on why certain campaigns were successful while others were not.
 It appears a campaign’s success may have to do with two factors: The month that the campaign started and the amount of the fund goal. 
 According to the data (shown in [Outcomes Based on Launch Date] Outcomes Based on Launch Date.png) the best months for successful campaigns were February, May, and June. In July failed campaigns began to rise and successful campaigns fell. 
 However, another impactful aspect was the campaign goal. Drilling down into failed and successful US play Kickstarters gives us a deeper view of the statistical trends of both categories. The goals of the successful campaigns averaged around $5,000, while failed campaigns averaged around $10,000. The IQR shows that the goals were much more varied for failed campaigns ($8,000), than successful campaigns ($3,500). 
