@@ -1,5 +1,8 @@
+#Crowd Funding Analysis
+
 This is the repository for the school project analyzing a crowd funding project
 In this project I analyzed a few questions to determine the viability of several Kickstarter/CrowdFunding ideas. 
+
 ##Initial Task
 This assignment started with a client wanting data to crowdfund her play, with a budget of over $10,000. However, the client wants to know if this is an achievable goal. The client specifically wants to know what factors would set her up for success. To do this, I will analyze Crowdfunding data to determine what data can tell us about other crowdfunding trends. 
 
