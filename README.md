@@ -5,7 +5,7 @@ In this project I analyzed a few questions to determine the viability of several
 
 ##Initial Task 
 This assignment started with a client wanting data to crowdfund her play, with a budget of over $10,000. However, the client wants to know if this is an achievable goal. The client specifically wants to know what factors would set her up for success. To do this, I will analyze Crowdfunding data to determine what data can tell us about other crowdfunding trends. 
--
+
 ##Data Analysis
 The data provided for this task can be found in the Excel sheet under the tab "Kickstarter". There were 15 columns representing data from crowd funding campaigns in a variety of countries, categories, with start and end dates (formatted as UNIX timestamps) and their crowding funding goals vs. pledged funding.
 To complete the analyses, I compared trends and statistics on failed vs. successful US Kickstarters, as well as the breakdown of successful Kickstarter campaigns on Theater in general and then Plays specifically as well as general trends over time. 
